@@ -1,0 +1,9 @@
+.nav-bar {
+  display: flex;
+  list-style-type: none;
+}
+
+.nav-bar li {
+  text-decoration: none;
+  padding-right: 40px;
+}

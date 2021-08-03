@@ -1,13 +1,17 @@
 import "./App.css";
+import "./header.css";
 import Counter from "./Counter";
+import Header from "./Header";
+import Footer from "./Footer";
 
 function App() {
   return (
     <div className="App">
+      <Header />
       <header className="App-header">
-        <h2>Welcome to my counter</h2>
         <Counter />
       </header>
+      <Footer />
     </div>
   );
 }
