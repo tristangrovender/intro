@@ -1,5 +1,6 @@
 import "./App.css";
 import "./header.css";
+import "./footer.css";
 import Counter from "./Counter";
 import Header from "./Header";
 import Footer from "./Footer";

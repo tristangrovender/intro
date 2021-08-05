@@ -1,9 +1,13 @@
 .nav-bar {
   display: flex;
   list-style-type: none;
+  margin: 0px;
+  padding: 15px;
+  background-color: grey;
 }
 
 .nav-bar li {
   text-decoration: none;
   padding-right: 40px;
+  color: black;
 }
